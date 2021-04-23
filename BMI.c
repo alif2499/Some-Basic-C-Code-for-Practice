@@ -1,3 +1,5 @@
+//just for fun!!
+
 #include<stdio.h>
 #include<math.h>
 int main ()
