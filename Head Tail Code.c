@@ -7,7 +7,8 @@ void main (void)
     i=rand();
     j=i%2;
     if (j==0)
-        printf("Head");
+    printf("Head");
+
     else
         printf("Tail");
 
